@@ -1,0 +1,7 @@
+.detail-card.export-card{width:min(460px,calc(100vw - 32px));background:#fff5fc;border:1px solid #e671ba;box-shadow:5px 5px 0 #ffadda}
+.detail-card.export-card h2{font-size:27px;line-height:1.4}
+.detail-card.export-card p{font-size:12px;line-height:1.9;color:#725c6c}
+.detail-card.export-card .submit{margin-top:22px;font-size:12px}
+.detail-card.export-card .text-button{margin-top:14px}
+.controls .export-control{display:flex;align-items:center;gap:6px;font-size:11px;padding:0 10px}
+@media(max-width:650px){.controls .export-control{font-size:9px;padding:0 7px}.controls .join-control{font-size:9px;padding:0 7px}}
