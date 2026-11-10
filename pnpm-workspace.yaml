@@ -1,0 +1,4 @@
+# Native binaries used by the declared build and local Workers runtime.
+allowBuilds:
+  esbuild: true
+  workerd: true
